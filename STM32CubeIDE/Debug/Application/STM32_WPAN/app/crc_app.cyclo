@@ -1,0 +1,6 @@
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/STM32_WPAN/App/crc_app.c:182:6:CRCAPP_Init	1
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/STM32_WPAN/App/crc_app.c:440:6:CRCAPP_LinkReadyNotification	1
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/STM32_WPAN/App/crc_app.c:459:13:CRCAPP_Transmit	2
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/STM32_WPAN/App/crc_app.c:495:13:CRCAPP_Terminal_UART_RxCpltCallback	8
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/STM32_WPAN/App/crc_app.c:558:13:CRCAPP_Terminal_Init	1
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/STM32_WPAN/App/crc_app.c:575:30:CRCAPP_Event_Handler	46

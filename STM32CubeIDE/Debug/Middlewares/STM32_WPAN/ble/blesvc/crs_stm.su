@@ -1,0 +1,4 @@
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/Middlewares/ST/STM32_WPAN/ble/svc/Src/crs_stm.c:96:30:CRS_Event_Handler	48	static
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/Middlewares/ST/STM32_WPAN/ble/svc/Src/crs_stm.c:174:6:CRS_STM_Init	112	static
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/Middlewares/ST/STM32_WPAN/ble/svc/Src/crs_stm.c:277:12:CRS_STM_Update_Char	32	static
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/Middlewares/ST/STM32_WPAN/ble/svc/Src/crs_stm.c:306:12:CRS_STM_Update_Char_Len	40	static

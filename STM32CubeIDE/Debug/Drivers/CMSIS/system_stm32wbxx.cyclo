@@ -1,0 +1,10 @@
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:1318:22:LL_RCC_HSE_Enable	1
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:1338:26:LL_RCC_HSE_IsReady	2
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:1359:22:LL_RCC_HSE_SetCapacitorTuning	1
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:1860:22:LL_RCC_MSI_Disable	1
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:2058:22:LL_RCC_SetSysClkSource	1
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h:2072:26:LL_RCC_GetSysClkSource	1
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:1976:22:LL_FLASH_SetLatency	1
+../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:1990:26:LL_FLASH_GetLatency	1
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/Core/Src/system_stm32wbxx.c:184:6:SystemInit	5
+C:/Users/robert.miller/STM32CubeIDE/workspace_1.12.1/BLE_CableReplacement/Core/Src/system_stm32wbxx.c:266:6:SystemCoreClockUpdate	7
